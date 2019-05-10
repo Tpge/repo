@@ -18,6 +18,8 @@ Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: /cylinder.deb
 Size: 515576
 MD5sum: B98CF1AF3123610DAE3D394416CB3446
+SHA1: F339882532C0FD6E436CEB0A626899EDD8BAFF32
+SHA256: 171F98F3BE6BE87C2DC107985C8011389A971533A9F6121BE539AAA50A090A96
 Section: Tweaks
 Description: Cylinder-自定义主屏幕翻页效果
 Author: Alting
